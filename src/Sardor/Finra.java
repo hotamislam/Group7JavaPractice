@@ -4,6 +4,8 @@ public class Finra {
 
     public static void main(String[] args) {
         finra(30);
+
+
     }
     public static void finra(int number) {
         for(int i = 1; i <= number; i++) {
@@ -16,6 +18,8 @@ public class Finra {
             } else {
                 System.out.print(i + ", ");
             }
+
+
         }
     }
 }
