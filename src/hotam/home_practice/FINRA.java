@@ -1,4 +1,4 @@
-package week2.home_practice;
+package hotam.home_practice;
 
 public class FINRA {
 
