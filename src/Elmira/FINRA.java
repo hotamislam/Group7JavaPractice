@@ -1,6 +1,6 @@
-package week2;
+package Elmira;
 
-public class Elmira {
+public class FINRA {
     public static void main(String[] args) {
 
         //Write a function that prints out the numbers from 1 to 30 but
