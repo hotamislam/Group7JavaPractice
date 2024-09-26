@@ -1,4 +1,4 @@
-package week1.Ismail_package;
+package Ismail_package;
 
 public class oddOrEven {
 
