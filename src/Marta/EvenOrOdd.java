@@ -1,7 +1,7 @@
-package week1;
+package Marta;
 
 
-public class Marta {
+public class EvenOrOdd {
 /*
 Write a method that can identify  a given number is even or odd.
 EX:
