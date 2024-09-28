@@ -12,7 +12,7 @@ public class SwapNumbers {
 //      a=  30+40=70
 
 
-        b = a - b; // 'b' is going to be = 10
+        b = a - b; // 'b' is going to be = 40
 //      b=  70-30=40
 
 //so now we have :
