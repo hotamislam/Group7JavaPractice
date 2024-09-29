@@ -1,6 +1,6 @@
-package week1;
+package Ismail_package;
 
-public class Ismail {
+public class oddOrEven {
 
     public static void main(String[] args) {
         oddOrEven(5);

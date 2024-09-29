@@ -1,6 +1,6 @@
-package week1;
+package Elmira;
 
-public class Elmira {
+public class OddOrEven {
     public static void main(String[] args) {
 
         /*
