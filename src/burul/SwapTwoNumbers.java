@@ -1,4 +1,4 @@
-package week1.burul;
+package burul;
 
 public class SwapTwoNumbers {
     public static void main(String[] args) {
