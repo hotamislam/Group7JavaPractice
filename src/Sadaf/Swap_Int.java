@@ -11,6 +11,8 @@ public class Swap_Int {
         b = a - b;  // b becomes 5 (15-10)
         a = a - b;  // a becomes 10 (5-5)
 
+
+//        printing the line
         System.out.println("a = " + a);
         System.out.println("b = " + b);
 
