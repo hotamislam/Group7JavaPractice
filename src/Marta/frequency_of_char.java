@@ -11,18 +11,12 @@ public class frequency_of_char {
         String str = "AAABBCDD";
         String result = "";
 
-
-
-
         for (int i = 0; i < str.length(); i++) {
 
             int count = 0;
 
             String ch = str.charAt(i)+"";
 
-
-
-            //"AAABBCDD"
             for(int j = 0; j < str.length(); j++) {
 
                 if (ch.equals(str.charAt(j) + "")) {
@@ -39,15 +33,10 @@ public class frequency_of_char {
                 result += ch + count;
 
 
-
-
-
         }
         System.out.println(result);
 
-
         }
-
 
 
     }
