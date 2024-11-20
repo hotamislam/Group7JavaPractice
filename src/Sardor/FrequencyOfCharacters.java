@@ -4,7 +4,7 @@ public class FrequencyOfCharacters {
 
     public static void main(String[] args) {
 
-        String str = "AAABBCD";
+        String str = "AAABBCD"; // A3B2C1D1
         System.out.println(getFrequencyOfChar(str));
     }
 
