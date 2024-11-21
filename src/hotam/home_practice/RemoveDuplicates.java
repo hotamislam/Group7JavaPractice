@@ -18,7 +18,7 @@ public class RemoveDuplicates {
         for (int each : arr) {
             unique.add(each);
         }
-
+//
         int[] uniqueArray = new int[unique.size()];
         int index = 0;
 
