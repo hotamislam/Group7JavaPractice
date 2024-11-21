@@ -21,7 +21,6 @@ public class RemoveDuplicates {
                 result+=each;// then we will add the character to string result
         }// if the character is not contained yet in the new string, then we will add it to the new string
         }
-
         return result;
     }
 
