@@ -2,6 +2,7 @@ package burul;
 
 public class FrequencyOfCharacters {
 
+    //this is the assignment
         public static void main(String[] args) {
             String str="AAABBCDD";
 
